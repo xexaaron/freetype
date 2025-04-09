@@ -45,6 +45,8 @@
 #include <freetype/config/public-macros.h>
 #include <freetype/config/mac-support.h>
 
+#define FT_CONFIG_OPTION_ERROR_STRINGS
+
 #endif /* FTCONFIG_H_ */
 
 
